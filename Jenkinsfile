@@ -5,6 +5,7 @@ pipeline{
 		{
 			steps{
 				echo "I am  doing stage1"
+				echo "oh lets see how it works"
 			     }
 		}
 		stage('satge2')
